@@ -12,5 +12,8 @@
 تمامی Resolverهایی که در فایل `iran-resolvers.txt` قرار دارد، به تعداد مختلف و در شبکه‌های مختلف در ایران تست می‌شود و Resolverهای در دسترس، در فایل `verified-iran-resolvers.txt` قرار می‌گیرد.
 
 ---
+- لینک کانال تلگرام: https://t.me/Sampa_Asa <br>
+- راه ارتباطی: https://t.me/Sampa_Asa?direct
+---
 
 به امید روزی که همه به اینترنت آزاد واقعی دست پیدا کنیم. 🕊
